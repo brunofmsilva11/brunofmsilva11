@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **School projects at 42 Porto**
 
-- 🌱 I’m currently learning **C, C#, SQL, HTML, CSS, Python**
+- 🌱 I’m currently learning **C, C#, SQL, HTML, CSS, Python, JS, PHP**
 
 - 📫 How to reach me **brunofmsilva.bs@gmail.com**
 
